@@ -59,7 +59,7 @@ body {
 
 .beneficios-container {
     background-color: #8af344f5;
-    height: 110vh;
+    height: 130vh;
 }
 
 .card-container {
@@ -108,3 +108,5 @@ body {
 .btn-primary:focus {
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
 }
+
+.contenedordsad {}
